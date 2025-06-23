@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
+
+
+
+
 *{
 	box-sizing: border-box;
 }
@@ -8,7 +12,7 @@ body{
 }
 #container{
 width: 800px;
-	margin: 800px;
+	
 	
 }
 .left{
@@ -20,6 +24,8 @@ width: 800px;
 	margin: 0px 10px 0px 10px;
 	padding: 30px 30px 10px 10px;
 	border: thick red solid;
+	font-size: 30px;
+	font-family: 
 }
 
 .right{
@@ -27,13 +33,18 @@ width: 800px;
 	height: 200px;
 	background-color: rgba(38,74,156,1.00);
 	border-radius: 25px; 
-	float: left;
+	float: right;
 	margin: 0px 10px 0px 10px;
 	padding: 30px 30px 10px 10px;
 	border: thick red solid;
-	display: none;
+	font-size: 30px;
+		
 	
+
+
 }
+
+
 footer{
 	
 	
