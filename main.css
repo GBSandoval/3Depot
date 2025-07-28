@@ -11,7 +11,7 @@ body{
 	background: url("Firefly black and white steampunk wallpaper 79430.jpg") repeat fixed top right;
 }
 #container{
-width: 800px;
+width: 800px; margin: 0 auto;
 	
 	
 }
@@ -44,8 +44,18 @@ width: 800px;
 	
 	
 	
-	
-	
+	.center{
+	width: 380px;
+	height: 200px;
+	background-color: rgba(38,74,156,1.00);
+	border-radius: 25px; 
+	float: right;
+	margin: 0px 10px 0px 10px;
+	padding: 30px 30px 10px 10px;
+	border: thick red solid;
+	font-size: 30px;
+}
+
 	
 	
 
